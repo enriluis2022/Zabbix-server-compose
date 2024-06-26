@@ -1,3 +1,3 @@
 # Zabbix-server-compose
-USER = Admin
+USER = Admin  
 PASSWORD = zabbix
