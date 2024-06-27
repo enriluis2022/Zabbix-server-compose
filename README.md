@@ -12,6 +12,10 @@ Ahora solo nos queda poner la aplicación en marcha con el comando habitual
 
 	docker-compose up -d
 
+ Si no funciona el código anterior, puedes usar sin el "-"
+
+	docker compose up -d
+
 Finalmente, digitamos en el navegador:
 
 "Localhost:8080" o bien "IP:8080" para acceder desde otro PC en la misma red wifi. 
